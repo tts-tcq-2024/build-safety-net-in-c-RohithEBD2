@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "Soundex.h"
+#include "soundex.h"
 
 TEST(SoudexTestsuite, ReplacesConsonantsWithAppropriateDigits) {
  //AAA
